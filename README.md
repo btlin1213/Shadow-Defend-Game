@@ -5,7 +5,7 @@
 
 
 # Overview
-Across Project 1 and 2, you will design and create a tower defense (TD) video game. Tower defense is type of strategy game where your goal as the player is (typically) to defend your territory from attackers. 
+"Across Project 1 and 2, you will design and create a tower defense (TD) video game. Tower defense is type of strategy game where your goal as the player is (typically) to defend your territory from attackers."
 
 # Purpose
 - Gain experience working with an object-oriented programming language (Java)
